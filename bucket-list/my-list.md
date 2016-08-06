@@ -1,23 +1,24 @@
-# My Bucket List
+ My Bucket List
 
-## Family and friends
+ Family and friends
  * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
+ * ~~Organize a family trip~
+ * Throw a Retirement party 
 
-## Travel and Adventure
- * Visit Antarctica
+ Travel and Adventure
+ * Take a trip to Germany
  * Go skydiving
- * Dive the Great Barrier Reef
+ * Go to a Seahawks game
  
-## Career
- * ~~Learn coding skills~~
- * Get a job in technology
+ Career
+ * Get a job in a career
+ * Move up in a manager postion
 
-## Service and volunteering
- * Join a nonprofit board
- * Volunteer at a children's hospital
+ Service and volunteering
+ * Helping out Veterians
+ * Volunteer for daughter school
  
-## Creativity
-* Write a song
-* Take an art class
+ Creativity
+* Continue Education to improve myself
+* Go hiking with the family
+* 
