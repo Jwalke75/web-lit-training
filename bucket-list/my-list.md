@@ -2,7 +2,7 @@
 
  Family and friends
  * Save for kids' college education
- * ~~Organize a family trip~
+ * Organize a family trip~
  * Throw a Retirement party 
 
  Travel and Adventure
